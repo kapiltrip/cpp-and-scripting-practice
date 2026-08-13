@@ -1,2 +1,6 @@
 # Local-only credentials and private notes.
 private/
+
+# Generated build and rendering scratch files.
+tmp/
+cpp/02_oop_and_value_types/oop_one_shot/build/

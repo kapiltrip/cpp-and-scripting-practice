@@ -6,6 +6,13 @@ programs or finish as many books as possible. The objective is to produce a
 traceable sequence of programs that become progressively more correct,
 idiomatic, tested, and useful.
 
+## Current hands-on module
+
+Start with the [C++ OOP one-shot revision module](cpp/02_oop_and_value_types/oop_one_shot/README.md).
+It connects the Apna College lesson to 20 illustrated handwritten-note pages,
+seven runnable examples, tests, and a small study-planner project that combines
+copying, RAII, inheritance, abstraction, and run-time polymorphism.
+
 > **Standards status (reviewed 2026-08-01):** C++23 is the current published
 > standard, formally [ISO/IEC 14882:2024]. C++26 is still under development as a
 > Draft International Standard. New work in this repository should target
