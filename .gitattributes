@@ -1,0 +1,2 @@
+# Preserve document bytes; generated PDFs can otherwise look like text to Git.
+*.pdf binary

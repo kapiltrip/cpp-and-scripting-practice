@@ -1,0 +1,6 @@
+# Generated C++ build products
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb

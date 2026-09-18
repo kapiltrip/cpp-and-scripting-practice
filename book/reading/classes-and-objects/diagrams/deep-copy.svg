@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="481.8755905511812" height="125" preserveAspectRatio="xMinYMin meet" viewBox="0 0 481 125" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="481.8755905511812" height="125"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-125)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="10" y="78" width="145" height="32" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="24" y="89" style="font-family: Mono; font-size: 10px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,178) scale(1,-1)">s1.cgpaptr</text>
+			<rect x="10" y="25" width="145" height="32" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(95%,96%,98%); fill-rule: evenodd;"/>
+			<text x="24" y="36" style="font-family: Mono; font-size: 10px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,72) scale(1,-1)">s2.cgpaptr</text>
+			<rect x="326" y="78" width="135" height="32" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="344" y="89" style="font-family: Mono; font-size: 10px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,178) scale(1,-1)">double: 8.19</text>
+			<rect x="326" y="25" width="135" height="32" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="344" y="36" style="font-family: Mono; font-size: 10px;fill: rgb(12%,14%,16%); stroke:none;" transform="translate(0,72) scale(1,-1)">double: 8.19</text>
+			<path d="M 155,94 L 322,94 Z" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="326 94, 317 98, 317 90" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,12%,37%); fill-rule: evenodd;"/>
+			<path d="M 155,41 L 322,41 Z" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="326 41, 317 45, 317 37" style="stroke: rgb(0%,12%,37%); stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,12%,37%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

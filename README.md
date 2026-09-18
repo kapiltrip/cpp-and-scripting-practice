@@ -6,7 +6,13 @@ programs or finish as many books as possible. The objective is to produce a
 traceable sequence of programs that become progressively more correct,
 idiomatic, tested, and useful.
 
+## Saved books
+
+Open the [local programming bookshelf](book/README.md) for the C++ and algorithms PDFs saved from WhatsApp.
+
 ## Current hands-on module
+
+For the current Teacher/student practice, use the [20 focused topic programs and run commands](Projects/CppOOP/code/README.md) and the [C++ type sizes and OOP companion PDF](Projects/CppOOP/cpp-oop-notes.pdf). The examples keep each concept in its own folder, with [book-backed reading notes](book/reading/classes-and-objects/README.md).
 
 Start with the [C++ OOP one-shot revision module](cpp/02_oop_and_value_types/oop_one_shot/README.md).
 It connects the Apna College lesson to 20 illustrated handwritten-note pages,
